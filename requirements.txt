@@ -2,3 +2,4 @@ arxiv
 transformers
 flask
 sentencepiece
+python-dev
