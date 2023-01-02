@@ -29,4 +29,5 @@ sacremoses
 sentencepiece
 transformers
 twine
+flake8-comprehensions
 python-dev-tools
