@@ -1,3 +1,4 @@
 arxiv
 transformers
 flask
+sentencepiece
