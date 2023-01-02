@@ -2,3 +2,5 @@ Flask
 gunicorn
 arxiv
 transformers
+feedparser
+regex==2018.1.10
