@@ -30,4 +30,5 @@ sentencepiece
 transformers
 twine
 flake8-comprehensions
+flake8-2020
 python-dev-tools
