@@ -1,6 +1,6 @@
 [build]
   command = "pip install -r requirements.txt && python summary.py"
-  functions = "functions"
+  functions = "lambda"
 
 [dev]
   command = "flask run"
