@@ -1,5 +1,4 @@
+Flask
+gunicorn
 arxiv
 transformers
-flask
-sentencepiece
-regex
