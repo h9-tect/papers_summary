@@ -1,4 +1,3 @@
-# papers_summary
 # ArXiv Summary
 
 This is a Python script that searches the [ArXiv](https://arxiv.org/) repository for papers matching a specific query and generates a summary for each paper using the [BART](https://huggingface.co/transformers/model_doc/bart.html) transformer.
