@@ -28,4 +28,3 @@ tqdm
 sacremoses
 sentencepiece
 transformers
-python-dev==3.7
