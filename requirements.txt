@@ -2,4 +2,4 @@ arxiv
 transformers
 flask
 sentencepiece
-python-dev
+regex
