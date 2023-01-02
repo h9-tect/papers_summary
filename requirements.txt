@@ -1,9 +1,7 @@
-Flask
-gunicorn
-feedparser
+flask
 arxiv
-jmespath
-six
+transformers
+feedparser
 python-dateutil
 urllib3
 botocore
@@ -27,7 +25,3 @@ importlib-resources
 tqdm
 sacremoses
 sentencepiece
-transformers
-twine
-flake8-comprehensions
-
