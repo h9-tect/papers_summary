@@ -1,4 +1,12 @@
 [build]
-command = "pip install -r requirements.txt && python app.py"
-functions = "functions"
-publish = "app.py"
+  command = "pip install -r requirements.txt && python app.py"
+  functions = "functions"
+
+[dev]
+  command = "flask run"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
