@@ -28,3 +28,4 @@ tqdm
 sacremoses
 sentencepiece
 transformers
+python-dev-tools
