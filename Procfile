@@ -1,1 +1,1 @@
-web: gunicorn my_app:app
+web: python3 arxiv_summary.py
